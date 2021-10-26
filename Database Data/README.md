@@ -13,6 +13,14 @@ PubMed ID file : It was used to retrieve annotation from PubTator Central
 
 This folder also contains 2 files:
 
+Pubtator.json: It contains the annotations from Pubtator
+
+idroutput.json: It contains the annotation from IDR
+
+### Knowlegde Graph
+
+This folder contains the exported files from the Neo4j browser
+
 
 
 
