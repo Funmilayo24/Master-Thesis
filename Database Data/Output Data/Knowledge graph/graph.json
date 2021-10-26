@@ -1,0 +1,3935 @@
+﻿[
+  {
+    "n": {
+"identity": 0,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "3"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [
+        "organism"
+      ],
+"properties": {
+"name": "Schizosaccharomyces pombe"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "25373780"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "Screen_Technology_Type"
+      ],
+"properties": {
+"name": "gene deletion screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "Study_Type"
+      ],
+"properties": {
+"name": "high content screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC4648281"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "Screen_Type"
+      ],
+"properties": {
+"name": "primary screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [
+        "Imaging_Method"
+      ],
+"properties": {
+"name": "spinning disk confocal microscopy"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A genomic Multiprocess survey of machineries that control and link cell shape, microtubule organization, and cell-cycle progression."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Graml V, Studera X, Lawson JLD, Chessel A, Geymonat M, Bortfeld-Miller M, Walter T, Wagstaff L, Piddini E, Carazo Salas RE"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1016/j.devcel.2014.09.005"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "51"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [
+        "organism"
+      ],
+"properties": {
+"name": "Saccharomyces cerevisiae"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "23509072"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [
+        "Screen_Technology_Type"
+      ],
+"properties": {
+"name": "protein screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 15,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC3601363"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 16,
+"labels": [
+        "Imaging_Method"
+      ],
+"properties": {
+"name": "fluorescence microscopy"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 17,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A novel single-cell screening platform reveals proteome plasticity during yeast stress responses."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Breker M, Gymrek M, Schuldiner M"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 19,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1083/jcb.201301120"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 20,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "102"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 21,
+"labels": [
+        "organism"
+      ],
+"properties": {
+"name": "Homo sapiens"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 22,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "24943848"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 23,
+"labels": [
+        "Screen_Technology_Type"
+      ],
+"properties": {
+"name": "RNAi screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 24,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC4142622"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 25,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Integration of biological data by kernels on graph nodes allows prediction of new genes involved in mitotic chromosome condensation."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 26,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Hériché JK, Lees JG, Morilla I, Walter T, Petrova B, Roberti MJ, Hossain MJ, Adler P, Fernández JM, Krallinger M, Haering CH, Vilo J, Valencia A, Ranea JA, Orengo C, Ellenberg J"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 27,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1091/mbc.E13-04-0221"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 28,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "154"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 29,
+"labels": [
+        "organism"
+      ],
+"properties": {
+"name": "Drosophila melanogaster"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 30,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "21893601"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 31,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC3171124"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 32,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Comparative RNAi screening identifies a conserved core metazoan actinome by phenotype."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 33,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Rohn JL, Sims D, Liu T, Fedorova M, Schöck F, Dopie J, Vartiainen MK, Kiger AA, Perrimon N, Baum B"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 34,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1083/jcb.201103168"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 35,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "201"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 36,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "23547032"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 37,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC3613684"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 38,
+"labels": [
+        "Imaging_Method"
+      ],
+"properties": {
+"name": "confocal microscopy"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 39,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Global analysis of SUMO chain function reveals multiple roles in chromatin regulation."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 40,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Srikumar T, Lewicki MC, Costanzo M, Tkach JM, van Bakel H, Tsui K, Johnson ES, Brown GW, Andrews BJ, Boone C, Giaever G, Nislow C, Raught B"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 41,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1083/jcb.201210019"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 42,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "202"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 43,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "18085829"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 44,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC2134942"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 45,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Genome-wide analysis of Rad52 foci reveals diverse mechanisms impacting recombination."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 46,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Alvaro D, Lisby M, Rothstein R"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 47,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1371/journal.pgen.0030228"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 48,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "206"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 49,
+"labels": [
+        "Screen_Type"
+      ],
+"properties": {
+"name": "secondary screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 50,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "251"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 51,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "22660414"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 52,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Genome-wide RNAi screening identifies human proteins with a regulatory function in the early secretory pathway."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 53,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Simpson JC, Joggerst B, Laketa V, Verissimo F, Cetin C, Erfle H, Bexiga MG, Singan VR, Hériché JK, Neumann B, Mateos A, Blake J, Bechtel S, Benes V, Wiemann S, Ellenberg J, Pepperkok R"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 54,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/ncb2510"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 55,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "253"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 56,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "24127217"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 57,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC3798253"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 58,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Whole-genome screening identifies proteins localized to distinct nuclear bodies."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 59,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Fong KW, Li Y, Wang W, Ma W, Li K, Qi RZ, Liu D, Songyang Z, Chen J"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 60,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1083/jcb.201303145"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 61,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "351"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 62,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "597"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 63,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "24446484"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 64,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC3897182"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 65,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A genome-wide screen identifies conserved protein hubs required for cadherin-mediated cell-cell adhesion."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 66,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Toret CP, D'Ambrosio MV, Vale RD, Simon MA, Nelson WJ"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 67,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1083/jcb.201306082"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 68,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "751"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 69,
+"labels": [
+        "Screen_Type"
+      ],
+"properties": {
+"name": "validation screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 70,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "803"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 71,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1101"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 72,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "20360735"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 73,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC3108885"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 74,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 75,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Neumann B, Walter T, Hériché JK, Bulkescher J, Erfle H, Conrad C, Rogers P, Poser I, Held M, Liebel U, Cetin C, Sieckmann F, Pau G, Kabbe R, Wünsche A, Satagopam V, Schmitz MH, Chapuis C, Gerlich DW, Schneider R, Eils R, Huber W, Peters JM, Hyman AA, Durbin R, Pepperkok R, Ellenberg J"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 76,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/nature08869"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 77,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1151"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 78,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "26700849"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 79,
+"labels": [
+        "Screen_Technology_Type"
+      ],
+"properties": {
+"name": "compound screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 80,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC4704494"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 81,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A chemical-genetic interaction map of small molecules using high-throughput imaging in cancer cells."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 82,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Breinig M, Klein FA, Huber W, Boutros M"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 83,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.15252/msb.20156400"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 84,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1201"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 85,
+"labels": [
+        "organism"
+      ],
+"properties": {
+"name": "mixed sample"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 86,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "29087936"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 87,
+"labels": [
+        "Screen_Technology_Type"
+      ],
+"properties": {
+"name": "geographic screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 88,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC5663481"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 89,
+"labels": [
+        "Screen_Type"
+      ],
+"properties": {
+"name": ""
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 90,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Quantitative 3D-imaging for cell biology and ecology of environmental microbial eukaryotes."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 91,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Colin S, Coelho LP, Sunagawa S, Bowler C, Karsenti E, Bork P, Pepperkok R, de Vargas C"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 92,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.7554/eLife.26066"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 93,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1203"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 94,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "26148352"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 95,
+"labels": [
+        "Study_Type"
+      ],
+"properties": {
+"name": "high content analysis of cells"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 96,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC4380925"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 97,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Cell shape and the microenvironment regulate   nuclear translocation of NF-κB in breast epithelial   and tumor cells."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 98,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Sero JE, Sailem HZ, Ardy RC, Almuttaqi H, Zhang T, Bakal C"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 99,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.15252/msb.20145644"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 100,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1251"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 101,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "28327978"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 102,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC5721342"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 103,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A dataset of images and morphological profiles of 30 000 small-molecule treatments using the Cell Painting assay."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 104,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Bray MA, Gustafsdottir SM, Rohban MH, Singh S, Ljosa V, Sokolnicki KL, Bittker JA, Bodycombe NE, Dancík V, Hasaka TP, Hon CS, Kemp MM, Li K, Walpita D, Wawer MJ, Golub TR, Schreiber SL, Clemons PA, Shamji AF, Carpenter AE"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 105,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1093/gigascience/giw014"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 106,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1302"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 107,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1351"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 108,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "19203579"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 109,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "RNF168 binds and amplifies ubiquitin conjugates on damaged chromosomes to allow accumulation of repair proteins."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 110,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Doil C, Mailand N, Bekker-Jensen S, Menard P, Larsen DH, Pepperkok R, Ellenberg J, Panier S, Durocher D, Bartek J, Lukas J, Lukas C"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 111,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1016/j.cell.2008.12.041"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 112,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1502"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 113,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "28248929"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 114,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC5332010"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 115,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "RNAi screens for Rho GTPase regulators of cell shape and YAP/TAZ localisation in triple negative breast cancer."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 116,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Pascual-Vargas P, Cooper S, Sero J, Bousgouni V, Arias-Garcia M, Bakal C"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 117,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/sdata.2017.18"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 118,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1551"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 119,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Protein Kinase C and the stress response pathways are required for kinetochore homeostasis."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 120,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Ledesma-Fernández E, Herrero E, Ólafsson G, Thorpe PH"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 121,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1602"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 122,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1652"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 123,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1653"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 124,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1654"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 125,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1752"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 126,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1801"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 127,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "28065575"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 128,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC5289939"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 129,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Multiparametric Analysis of Cell Shape Demonstrates that β-PIX Directly Couples YAP Activation to Extracellular Matrix Adhesion."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 130,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Sero JE, Bakal C"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 131,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1016/j.cels.2016.11.015"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 132,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1851"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 133,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "22361696"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 134,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Systematic validation of antibody binding and protein subcellular localization using siRNA and confocal microscopy."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 135,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Stadler C, Hjelmare M, Neumann B, Jonasson K, Pepperkok R, Uhlén M, Lundberg E"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 136,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1016/j.jprot.2012.01.030"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 137,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1853"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 138,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1901"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 139,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "28489815"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 140,
+"labels": [
+        "Screen_Technology_Type"
+      ],
+"properties": {
+"name": "cell line screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 141,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC5524171"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 142,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Common genetic variation drives molecular heterogeneity in human iPSCs."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 143,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Kilpinen H, Goncalves A, Leha A, Afzal V, Alasoo K, Ashford S, Bala S, Bensaddek D, Casale FP, Culley OJ, Danecek P, Faulconbridge A, Harrison PW, Kathuria A, McCarthy D, McCarthy SA, Meleckyte R, Memari Y, Moens N, Soares F, Mann A, Streeter I, Agu CA, Alderton A, Nelson R, Harper S, Patel M, White A, Patel SR, Clarke L, Halai R, Kirton CM, Kolb-Kokocinski A, Beales P, Birney E, Danovi D, Lamond AI, Ouwehand WH, Vallier L, Watt FM, Durbin R, Stegle O, Gaffney DJ"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 144,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/nature22403"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 145,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "1952"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 146,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "24312513"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 147,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC3847047"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 148,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Multiplex cytological profiling assay to measure diverse cellular states."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 149,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Gustafsdottir SM, Ljosa V, Sokolnicki KL, Anthony Wilson J, Walpita D, Kemp MM, Petri Seiler K, Carrel HA, Golub TR, Schreiber SL, Clemons PA, Carpenter AE, Shamji AF"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 150,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1371/journal.pone.0080999"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 151,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2001"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 152,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "28858338"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 153,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC4359755"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 154,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Data-analysis strategies for image-based cell profiling."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 155,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Caicedo JC, Cooper S, Heigwer F, Warchal S, Qiu P, Molnar C, Vasilevich AS, Barry JD, Bansal HS, Kraus O, Wawer M, Paavolainen L, Herrmann MD, Rohban M, Hung J, Hennig H, Concannon J, Smith I, Clemons PA, Singh S, Rees P, Horvath P, Linington RG, Carpenter AE"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 156,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/nmeth.4397"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 157,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2051"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 158,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "30784590"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 159,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC6381787"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 160,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Identifying Extrinsic versus Intrinsic Drivers of Variation in Cell Behavior in Human iPSC Lines from Healthy Donors."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 161,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Vigilante A, Laddach A, Moens N, Meleckyte R, Leha A, Ghahramani A, Culley OJ, Kathuria A, Hurling C, Vickers A, Wiseman E, Tewary M, Zandstra PW, HipSci Consortium., Durbin R, Fraternali F, Stegle O, Birney E, Luscombe NM, Danovi D, Watt FM"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 162,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1016/j.celrep.2019.01.094"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 163,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2101"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 164,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "31253758"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 165,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC6599018"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 166,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Live imaging screen reveals that TYRO3 and GAK ensure accurate spindle positioning in human cells."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 167,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Wolf B, Busso C, Gönczy P"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 168,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/s41467-019-10446-z"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 169,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2152"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 170,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "31278301"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 171,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC6611796"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 172,
+"labels": [
+        "Screen_Type"
+      ],
+"properties": {
+"name": "Validation"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 173,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Uncovering the signaling landscape controlling breast cancer cell migration identifies novel metastasis driver genes."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 174,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Koedoot E, Fokkelman M, Rogkoti VM, Smid M, van de Sandt I, de Bont H, Pont C, Klip JE, Wink S, Timmermans MA, Wiemer EAC, Stoilov P, Foekens JA, Le Dévédec SE, Martens JWM, van de Water B"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 175,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/s41467-019-11020-3"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 176,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2201"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 177,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2304"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 178,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "32296040"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 179,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC7160116"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 180,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A long noncoding RNA regulates microtubule behaviour during mitosis"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 181,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Stojic L, Lun ATL, Mascalchi P, Ernst C, Redmond AM, Mangei J, Cooper S, Barr AR, Taylor C, Franklin VNR, Bakal C, Marioni JC, Odom DT, Gergely F"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 182,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/s41467-020-14978-7"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 183,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2351"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 184,
+"labels": [
+        "organism"
+      ],
+"properties": {
+"name": "Mus musculus"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 185,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "32191874"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 186,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A live-cell screen for altered Erk dynamics reveals principles of proliferative control"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 187,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Goglia AG, Wilson MZ, Silbert J, Jena S, Devenport D, Toettcher JE"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 188,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1016/j.cels.2020.02.005"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 189,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2406"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 190,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "32788590"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 191,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "High-content image-based drug screen identifies a clinical compound against cell transmission of adenovirus"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 192,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Georgi F, Kuttler F, Murer L, Andriasyan V, Witte R, Yakimovich A, Turcatti G, Greber UF"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 193,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/s41597-020-00604-0"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 194,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2451"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 195,
+"labels": [
+        "Study_Type"
+      ],
+"properties": {
+"name": "compound library screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 196,
+"labels": [
+        "Imaging_Method"
+      ],
+"properties": {
+"name": "bright-field microscopy"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 197,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A semi-automated organoid screening method demonstrates epigenetic control of intestinal epithelial differentiation"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 198,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Ostrop J, Zwiggelaar R, Terndrup Pedersen M, Gerbe F, Bosl K, Lindholm HT, Dıez-Sanchez A, Parmar N, Radetzki S, von Kries JP, Jay P, Jensen KB, Arrowsmith C, Oudhoff MJ"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 199,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.3389/fcell.2020.618552"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 200,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2501"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 201,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "32064787"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 202,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC7025093"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 203,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Systematic genetics and single-cell imaging reveal widespread morphological pleiotropy and cell-to-cell variability"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 204,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Mattiazzi Usaj M, Sahin N, Friesen H, Pons C, Usaj M, Paz Masinas M, Shuteriqi E, Shkurin A, Aloy P, Morris Q, Boone C, Andrews BJ"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 205,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.15252/msb.20199243"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 206,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2551"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 207,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2602"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 208,
+"labels": [
+        "organism"
+      ],
+"properties": {
+"name": "Severe acute respiratory syndrome coronavirus 2"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 209,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "33637768"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 210,
+"labels": [
+        "Study_Type"
+      ],
+"properties": {
+"name": "infection"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 211,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC7910569"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 212,
+"labels": [
+        "Screen_Type"
+      ],
+"properties": {
+"name": "primary assay"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 213,
+"labels": [
+        "Imaging_Method"
+      ],
+"properties": {
+"name": "phase contrast microscopy"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 214,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A SARS-CoV-2 cytopathicity dataset generated by high-content screening of a large drug repurposing collection"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 215,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Ellinger B, Bojkova D, Zaliani A, Cinatl J, Claussen C, Westhaus S, Keminer O, Reinshagen J, Kuzikov M, Wolf M, Geisslinger G, Gribbon P, Ciesek S"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 216,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/s41597-021-00848-4"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 217,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2603"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 218,
+"labels": [
+        "Screen_Type"
+      ],
+"properties": {
+"name": "multiple concentration"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 219,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2651"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 220,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "32764586"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 221,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC7411054"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 222,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Tales of 1,008 Small Molecules: Phenomic Profiling through Live-cell Imaging in a Panel of Reporter Cell Lines"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 223,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Cox MJ, Jaensch S, Van de Waeter J, Cougnaud L, Seynaeve D, Benalla S, Koo SJ, Van Den Wyngaert I, Neefs JM, Malkov D, Bittremieux M, Steemans M, Peeters PJ, Wegner JK, Ceulemans H, Gustin E, Chong YT, Ghlmann HWH"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 224,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1038/s41598-020-69354-8"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 225,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2701"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 226,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "33534641"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 227,
+"labels": [
+        "Screen_Technology_Type"
+      ],
+"properties": {
+"name": "CRISPR screen"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 228,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Predicting cell health phenotypes using image-based morphology profiling"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 229,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Way GP, Kost-Alimova M, Shibue T, Harrington WF, Gill S, Piccioni F, Becker T, Shafqat-Abbasi H, Hahn WC, Carpenter AE, Vazquez F, Singh S"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 230,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1091/mbc.E20-12-0784"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 231,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2751"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 232,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "High content genome-wide siRNA screen to investigate the coordination of cell size and RNA production"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 233,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Müller M, Pelkmans L, Berry S"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 234,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2801"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 235,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "33203764"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 236,
+"labels": [
+        "Screen_Technology_Type"
+      ],
+"properties": {
+"name": "pooled protein tagging with GFP"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 237,
+"labels": [
+        "Study_Type"
+      ],
+"properties": {
+"name": "in situ sequencing"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 238,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC7706735"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 239,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Pooled protein tagging, cellular imaging, and in situ sequencing for monitoring drug action in real time"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 240,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Reicher A, Koren A, Kubicek S"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 241,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1101/gr.261503.120"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 242,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2851"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 243,
+"labels": [
+        "organism"
+      ],
+"properties": {
+"name": "Plasmodium falciparum 3D7"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 244,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "32978158"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 245,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC7518791"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 246,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A machine learning approach to define antimalarial drug action from heterogeneous cell-based screens"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 247,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Ashdown GW, Dimon M, Fan M, Terán FS, Witmer K, Gaboriau DCA, Armstrong Z, Ando DM, Baum J"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 248,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1126/sciadv.aba9338"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 249,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "2951"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 250,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "31968357"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 251,
+"labels": [
+        "PMCID"
+      ],
+"properties": {
+"name": "PMC7055006"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 252,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "A reference library for assigning protein subcellular localizations by image-based machine learning"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 253,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Schormann W, Hariharan S, Andrews DW"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 254,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1083/jcb.201904090"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 255,
+"labels": [
+        "id"
+      ],
+"properties": {
+"name": "3001"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 256,
+"labels": [
+        "pubmedID"
+      ],
+"properties": {
+"name": "34595747"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 257,
+"labels": [
+        "Publication_Title"
+      ],
+"properties": {
+"name": "Image-based deep learning reveals the responses of human motor neurons to stress and VCP-related ALS"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 258,
+"labels": [
+        "Publication_Author"
+      ],
+"properties": {
+"name": "Verzat C, Harley J, Patani R, Luisier R"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 259,
+"labels": [
+        "Publication_DOI"
+      ],
+"properties": {
+"name": "10.1111/nan.12770"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 260,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "34595747"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 261,
+"labels": [
+        "year"
+      ],
+"properties": {
+"name": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 262,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Verzat C",
+          "Harley J",
+          "Patani R",
+          "Luisier R"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 263,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "33637768"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 264,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Ellinger B",
+          "Bojkova D",
+          "Zaliani A",
+          "Cinatl J",
+          "Claussen C",
+          "Westhaus S",
+          "Keminer O",
+          "Reinshagen J",
+          "Kuzikov M",
+          "Wolf M",
+          "Geisslinger G",
+          "Gribbon P",
+          "Ciesek S"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 265,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "33534641"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 266,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Way GP",
+          "Kost-Alimova M",
+          "Shibue T",
+          "Harrington WF",
+          "Gill S",
+          "Piccioni F",
+          "Becker T",
+          "Shafqat-Abbasi H",
+          "Hahn WC",
+          "Carpenter AE",
+          "Vazquez F",
+          "Singh S"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 267,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "33203764"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 268,
+"labels": [
+        "year"
+      ],
+"properties": {
+"name": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 269,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Reicher A",
+          "Koren A",
+          "Kubicek S"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 270,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "32978158"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 271,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Ashdown GW",
+          "Dimon M",
+          "Fan M",
+          "Sánchez-Román Terán F",
+          "Witmer K",
+          "Gaboriau DCA",
+          "Armstrong Z",
+          "Ando DM",
+          "Baum J"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 272,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "32788590"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 273,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Georgi F",
+          "Kuttler F",
+          "Murer L",
+          "Andriasyan V",
+          "Witte R",
+          "Yakimovich A",
+          "Turcatti G",
+          "Greber UF"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 274,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "32764586"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 275,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Cox MJ",
+          "Jaensch S",
+          "Van de Waeter J",
+          "Cougnaud L",
+          "Seynaeve D",
+          "Benalla S",
+          "Koo SJ",
+          "Van Den Wyngaert I",
+          "Neefs JM",
+          "Malkov D",
+          "Bittremieux M",
+          "Steemans M",
+          "Peeters PJ",
+          "Wegner JK",
+          "Ceulemans H",
+          "Gustin E",
+          "Chong YT",
+          "Göhlmann HWH"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 276,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "32296040"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 277,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Stojic L",
+          "Lun ATL",
+          "Mascalchi P",
+          "Ernst C",
+          "Redmond AM",
+          "Mangei J",
+          "Barr AR",
+          "Bousgouni V",
+          "Bakal C",
+          "Marioni JC",
+          "Odom DT",
+          "Gergely F"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 278,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "32191874"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 279,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Goglia AG",
+          "Wilson MZ",
+          "Jena SG",
+          "Silbert J",
+          "Basta LP",
+          "Devenport D",
+          "Toettcher JE"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 280,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "32064787"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 281,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Mattiazzi Usaj M",
+          "Sahin N",
+          "Friesen H",
+          "Pons C",
+          "Usaj M",
+          "Masinas MPD",
+          "Shuteriqi E",
+          "Shkurin A",
+          "Aloy P",
+          "Morris Q",
+          "Boone C",
+          "Andrews BJ"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 282,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "31968357"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 283,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Schormann W",
+          "Hariharan S",
+          "Andrews DW"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 284,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "31278301"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 285,
+"labels": [
+        "year"
+      ],
+"properties": {
+"name": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 286,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Koedoot E",
+          "Fokkelman M",
+          "Rogkoti VM",
+          "Smid M",
+          "van de Sandt I",
+          "de Bont H",
+          "Pont C",
+          "Klip JE",
+          "Wink S",
+          "Timmermans MA",
+          "Wiemer EAC",
+          "Stoilov P",
+          "Foekens JA",
+          "Le Devedec SE",
+          "Martens JWM",
+          "van de Water B"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 287,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "31253758"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 288,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Wolf B",
+          "Busso C",
+          "Gonczy P"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 289,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "30784590"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 290,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Vigilante A",
+          "Laddach A",
+          "Moens N",
+          "Meleckyte R",
+          "Leha A",
+          "Ghahramani A",
+          "Culley OJ",
+          "Kathuria A",
+          "Hurling C",
+          "Vickers A",
+          "Wiseman E",
+          "Tewary M",
+          "Zandstra PW",
+          "Durbin R",
+          "Fraternali F",
+          "Stegle O",
+          "Birney E",
+          "Luscombe NM",
+          "Danovi D",
+          "Watt FM"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 291,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "29087936"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 292,
+"labels": [
+        "year"
+      ],
+"properties": {
+"name": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 293,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Colin S",
+          "Coelho LP",
+          "Sunagawa S",
+          "Bowler C",
+          "Karsenti E",
+          "Bork P",
+          "Pepperkok R",
+          "de Vargas C"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 294,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "28858338"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 295,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Caicedo JC",
+          "Cooper S",
+          "Heigwer F",
+          "Warchal S",
+          "Qiu P",
+          "Molnar C",
+          "Vasilevich AS",
+          "Barry JD",
+          "Bansal HS",
+          "Kraus O",
+          "Wawer M",
+          "Paavolainen L",
+          "Herrmann MD",
+          "Rohban M",
+          "Hung J",
+          "Hennig H",
+          "Concannon J",
+          "Smith I",
+          "Clemons PA",
+          "Singh S",
+          "Rees P",
+          "Horvath P",
+          "Linington RG",
+          "Carpenter AE"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 296,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "28489815"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 297,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Kilpinen H",
+          "Goncalves A",
+          "Leha A",
+          "Afzal V",
+          "Alasoo K",
+          "Ashford S",
+          "Bala S",
+          "Bensaddek D",
+          "Casale FP",
+          "Culley OJ",
+          "Danecek P",
+          "Faulconbridge A",
+          "Harrison PW",
+          "Kathuria A",
+          "McCarthy D",
+          "McCarthy SA",
+          "Meleckyte R",
+          "Memari Y",
+          "Moens N",
+          "Soares F",
+          "Mann A",
+          "Streeter I",
+          "Agu CA",
+          "Alderton A",
+          "Nelson R",
+          "Harper S",
+          "Patel M",
+          "White A",
+          "Patel SR",
+          "Clarke L",
+          "Halai R",
+          "Kirton CM",
+          "Kolb-Kokocinski A",
+          "Beales P",
+          "Birney E",
+          "Danovi D",
+          "Lamond AI",
+          "Ouwehand WH",
+          "Vallier L",
+          "Watt FM",
+          "Durbin R",
+          "Stegle O",
+          "Gaffney DJ"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 298,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "28327978"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 299,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Bray MA",
+          "Gustafsdottir SM",
+          "Rohban MH",
+          "Singh S",
+          "Ljosa V",
+          "Sokolnicki KL",
+          "Bittker JA",
+          "Bodycombe NE",
+          "Dancík V",
+          "Hasaka TP",
+          "Hon CS",
+          "Kemp MM",
+          "Li K",
+          "Walpita D",
+          "Wawer MJ",
+          "Golub TR",
+          "Schreiber SL",
+          "Clemons PA",
+          "Shamji AF",
+          "Carpenter AE"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 300,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "28248929"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 301,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Pascual-Vargas P",
+          "Cooper S",
+          "Sero J",
+          "Bousgouni V",
+          "Arias-Garcia M",
+          "Bakal C"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 302,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "28078498"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 303,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Gomez AL",
+          "Delconte MB",
+          "Altamirano GA",
+          "Vigezzi L",
+          "Bosquiazzo VL",
+          "Barbisan LF",
+          "Ramos JG",
+          "Luque EH",
+          "Muñoz-de-Toro M",
+          "Kass L"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 304,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "28065575"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 305,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Sero JE",
+          "Bakal C"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 306,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "26700849"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 307,
+"labels": [
+        "year"
+      ],
+"properties": {
+"name": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 308,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Breinig M",
+          "Klein FA",
+          "Huber W",
+          "Boutros M"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 309,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "26148352"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 310,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Sero JE",
+          "Sailem HZ",
+          "Ardy RC",
+          "Almuttaqi H",
+          "Zhang T",
+          "Bakal C"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 311,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "25373780"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 312,
+"labels": [
+        "year"
+      ],
+"properties": {
+"name": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 313,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Graml V",
+          "Studera X",
+          "Lawson JLD",
+          "Chessel A",
+          "Geymonat M",
+          "Bortfeld-Miller M",
+          "Walter T",
+          "Wagstaff L",
+          "Piddini E",
+          "Carazo Salas RE"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 314,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "24943848"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 315,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Hériché JK",
+          "Lees JG",
+          "Morilla I",
+          "Walter T",
+          "Petrova B",
+          "Roberti MJ",
+          "Hossain MJ",
+          "Adler P",
+          "Fernández JM",
+          "Krallinger M",
+          "Haering CH",
+          "Vilo J",
+          "Valencia A",
+          "Ranea JA",
+          "Orengo C",
+          "Ellenberg J"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 316,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "24446484"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 317,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Toret CP",
+          "D Ambrosio MV",
+          "Vale RD",
+          "Simon MA",
+          "Nelson WJ"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 318,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "24312513"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 319,
+"labels": [
+        "year"
+      ],
+"properties": {
+"name": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 320,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Gustafsdottir SM",
+          "Ljosa V",
+          "Sokolnicki KL",
+          "Anthony Wilson J",
+          "Walpita D",
+          "Kemp MM",
+          "Petri Seiler K",
+          "Carrel HA",
+          "Golub TR",
+          "Schreiber SL",
+          "Clemons PA",
+          "Carpenter AE",
+          "Shamji AF"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 321,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "24127217"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 322,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Fong KW",
+          "Li Y",
+          "Wang W",
+          "Ma W",
+          "Li K",
+          "Qi RZ",
+          "Liu D",
+          "Songyang Z",
+          "Chen J"
+        ]
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 323,
+"labels": [
+        "pubid"
+      ],
+"properties": {
+"name": "23547032"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 324,
+"labels": [
+        "author"
+      ],
+"properties": {
+"name": [
+          "Srikumar T",
+          "Lewicki MC",
+          "Costanzo M",
+          "Tkach JM",
+          "van Bakel H",
+          "Tsui K",
+          "Johnson ES",
+          "Brown GW",
+          "Andrews BJ",
+          "Boone C",
+          "Giaever G",
+          "Nislow C",
+          "Raught B"
+        ]
+      }
+    }
+  }
+]
