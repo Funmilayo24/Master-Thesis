@@ -16,7 +16,7 @@ The Neo4j Graph Data Science library is the successor of the Neo4j Graph Algorit
 
 ## Downloading and installing releases
 
-The latest releases of Neo4j GDS can always be found at the Neo4j Graph Data Science Download Page. To install the plugin in Neo4j place the downloaded JAR file it in the plugins directory of your Neo4j database and restart the database. For further instructions, see our documentation.
+The latest releases of Neo4j GDS can always be found at the Neo4j Graph Data Science Download Page https://neo4j.com/graph-data-science-software/. To install the plugin in Neo4j place the downloaded JAR file it in the plugins directory of your Neo4j database and restart the database. For further instructions, see the documentation. https://neo4j.com/docs/graph-data-science/current/installation/
 
 If you are using Neo4j Desktop you can simply add the Graph Data Science library on the plugins page of your project.
 
