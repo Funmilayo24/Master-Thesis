@@ -9,7 +9,7 @@ Screen ID file: it was used to retrieve annotation from IDR
 
 PubMed ID file : It was used to retrieve annotation from PubTator Central
 
-link prediction csv : It is used for the supervised learning and holds the link prediciton scores
+Link prediction csv : It is used for the supervised learning and holds the link prediciton scores
 
 ### Output File
 
